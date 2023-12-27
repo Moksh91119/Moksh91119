@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jainmoksh03@gmail.com**
 
-- 📄 Know about my experiences [https://itsmemoksh.in/](https://itsmemoksh.in/)]
+- 📄 Know about my experiences [https://itsmemoksh.in/](https://itsmemoksh.in/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
