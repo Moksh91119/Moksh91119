@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Contributing to open source**
 
-- 👨‍💻 All of my projects are available at [something](something)
+- 👨‍💻 All of my projects are available at [https://itsmemoksh.in/](https://itsmemoksh.in/)
 
 - 📝 I regularly write articles on [https://mokshjain.hashnode.dev/](https://mokshjain.hashnode.dev/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jainmoksh03@gmail.com**
 
-- 📄 Know about my experiences [.](.)
+- 📄 Know about my experiences [https://itsmemoksh.in/](https://itsmemoksh.in/)]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
