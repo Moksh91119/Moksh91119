@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **JS, ReactJs**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👯 I’m looking to collaborate on **Projects related to Web Development**
 
@@ -21,13 +21,7 @@
 
 - 📄 Know about my experiences [https://itsmemoksh.in/](https://itsmemoksh.in/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-
+<br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jainmoksh00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jainmoksh00" /></a></p><br><br>
 <br>
