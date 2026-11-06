@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moksh Jain</h1>
-<h3 align="center">I am a highly motivated and enthusiastic Computer Science student with a passion for web development. With a strong foundation in programming and a keen interest in creating interactive and user-friendly websites, I am committed to honing my skills and contributing to the world of web development.</h3>
+<h3 align="center">I am a highly motivated and enthusiastic software developer with a passion for web development. With a strong foundation in programming and a keen interest in creating interactive and user-friendly websites, I am committed to honing my skills and contributing to the world of web development.</h3>
 
 ![image](https://github.com/Moksh91119/Moksh91119/assets/111447162/18d7f4b3-e5c8-4869-8c91-28dc7366bd88)
 
@@ -11,11 +11,7 @@
 
 - 🤝 I’m looking for help with **Contributing to open source**
 
-- 👨‍💻 All of my projects are available at [https://itsmemoksh.in/](https://itsmemoksh.in/)
-
-- 📝 I regularly write articles on [https://mokshjain.hashnode.dev/](https://mokshjain.hashnode.dev/)
-
-- 💬 Ask me about **JS, ReactJs, NodeJs**
+- 💬 Ask me about **TypeScript, React, Next, Nest, Postgres**
 
 - 📫 How to reach me **jainmoksh03@gmail.com**
 
