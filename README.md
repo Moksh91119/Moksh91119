@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moksh Jain</h1>
 <h3 align="center">I am a highly motivated and enthusiastic software developer with a passion for web development. With a strong foundation in programming and a keen interest in creating interactive and user-friendly websites, I am committed to honing my skills and contributing to the world of web development.</h3>
 
-![image](https://github.com/Moksh91119/Moksh91119/assets/111447162/18d7f4b3-e5c8-4869-8c91-28dc7366bd88)
-
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **Full-Stack Development**
+- 🔭 I’m currently working on **Full-Stack Development**
 
 - 👯 I’m looking to collaborate on **Projects related to Web Development**
 
@@ -14,8 +10,6 @@
 - 💬 Ask me about **TypeScript, React, Next, Nest, Postgres**
 
 - 📫 How to reach me **jainmoksh03@gmail.com**
-
-- 📄 Know about my experiences [https://itsmemoksh.in/](https://itsmemoksh.in/)
 
 <br>
 <h3 align="left">Support:</h3>
